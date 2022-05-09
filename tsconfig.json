@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6", //Javascript - ECMA Script v6,
+        "noEmitOnError": true,
+        "noImplicitAny": true
+    },
+    "include": ["app/**/*"]
+}
